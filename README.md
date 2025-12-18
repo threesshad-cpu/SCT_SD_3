@@ -1,0 +1,64 @@
+# 🧩 Sudoku Titan Omega v11.3 🤖
+### **Advanced AI Research Solver & Procedural Logic Engine**
+**Intern:** Threessha D | **Intern ID:** SCT/DEC25/0792  
+**Project:** Task 3 - Software Development Internship at **SkillCraft Technology**
+
+---
+
+## 🚀 Project Overview
+**Sudoku Titan Omega** is a professional-grade **Constraint Satisfaction Problem (CSP)** demonstration tool. It features a high-speed **Backtracking AI** optimized with visual search-tree logging, a **Procedural Shuffle Engine** for infinite variations, and a fully interactive **Robotic Persona**.
+
+> **"Initiating Quantum Logic. I am peeking at the grid sectors now."** — *Omega Engine*
+
+---
+
+## 🌟 Elite Engineering Features
+
+### 🧠 **Quantum AI Solver (MRV Heuristic)**
+* **Heuristic Optimization:** Implements **Minimum Remaining Values (MRV)** to prioritize cells with the lowest entropy, solving even "Pro" 9x9 grids in under 5 seconds.
+* **Visual Logic Trace:** A real-time console provides a diagnostic log of the AI's "thought process," tracking every testing and backtracking event.
+* **Algorithmic Heatmap:** Cells that cause high logic friction dynamically glow red to visualize backtracking density.
+
+
+
+### 🔀 **Procedural Shuffle Engine**
+* **Infinite Variations:** The backend utilizes mathematical rotations, transpositions, and symmetry swaps to generate thousands of unique unsolved matrices from seed data.
+* **Ordered Difficulty Scaling:** Features 5 distinct, mission-ready levels: **Noob**, **Beginner**, **Casual**, **Smart**, and **Pro**.
+
+### 🤖 **Interactive AI Avatar & Voice**
+* **Dynamic Avatar:** A Lottie-powered robot avatar that physically "leans in" to peek at grid sectors during the solve process.
+* **Standard Robot Voice:** Integrated a clear, high-pitched robotic voice (Pitch: 1.6, Rate: 1.1) to communicate mission status.
+* **Reactive Personality:** The avatar blinks during calculations and performs a visual "wink" (brightness flash) upon successful completion.
+
+### 🎨 **Professional Soft UI (Neumorphism)**
+* **Tacit Aesthetics:** A fully centered, professional dashboard utilizing CSS Neumorphism for a tactile, extruded look.
+* **Dual-Theme Mode:** Supports real-time toggling between **Light** and **Dark** modes to adapt to any environment.
+
+---
+
+## 🛠️ Tech Stack
+* **Backend:** Python & Flask (Logic Routing & Procedural Shuffling)
+* **Frontend:** JavaScript (ES6+), CSS Grid/Flexbox
+* **Animations:** LottieFiles (Avatar Engine) & Canvas Confetti
+* **AI Logic:** Recursive Backtracking + MRV Heuristic Optimization
+
+---
+
+## 📖 How to Run
+1. Clone the Repository:
+   git clone [https://github.com/threesshad-cpu/SCT_SD_3.git](https://github.com/threesshad-cpu/SCT_SD_3.git)
+   
+2. Install Dependencies:
+   pip install flask
+
+3. Launch the Omega Engine:
+   python app.py
+   
+Access: Open http://127.0.0.1:5000 in your browser.
+
+---
+
+## 👨‍💻 Internship Documentation
+* **Module:** Task 3 - Sudoku Solver
+* **Focus Area:** AI Heuristics, UI/UX Design, and Full-Stack Integration
+* **Submission Date:** December 2025  
